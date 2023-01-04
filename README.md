@@ -22,6 +22,11 @@ B1042092 李心喬   B1042109   楊語涵
 手機傳送8：上一首
 
 手機傳送9：下一首
+## 電路圖
+![322817665_738633661158724_4550415076698768316_n](https://user-images.githubusercontent.com/106758228/210548574-0c1bade3-575a-44c9-84b7-c13a2868ff78.jpg)
+## 流程圖
+![MUSICBOX drawio](https://user-images.githubusercontent.com/106758228/210548683-0b083df7-2bca-4793-95b0-12bdc0fa8c67.png)
+
 ## 程式
 引用函式庫、初始化 LCD 模組
 ```
@@ -361,3 +366,5 @@ for(int j=0;j<=1;j++){
   delay(20);
 }
 ```
+## 照片
+![323379005_722955835792516_9140648123607672690_n](https://user-images.githubusercontent.com/106758228/210548938-2b756781-16b9-44bc-b170-d92888e2424b.jpg)
